@@ -1,0 +1,170 @@
+[
+    {
+        "title": "Learn something new today?",
+        "icon": "sunny",
+        "items": [
+            {
+                "icon": "blue_book",
+                "image": "https://cdn.lynda.com/course/85324/85324-636262918838303778-16x9.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://d2ybmm5cpznb3i.cloudfront.net/wp-content/uploads/2016/10/Book-design-101.jpg"
+            },
+            {
+                "icon": "globe_with_meridians",
+                "image": "http://iampariah.com/x_assets/2017/02/ID_cover_spine.png"
+            },
+            {
+                "icon": "headphones",
+                "image": "https://cdn.lynda.com/course/53850/53850-16x9.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://www.theagencyforeducation.co.uk/wp-content/uploads/2016/03/DIGITAL_MARKETING_BOOK.jpg"
+            },
+            {
+                "icon": "blue_book",
+                "image": "https://www.dayvandi.com/wp-content/uploads/2016/06/digital-marketing-seo-20161.jpg?x60132"
+            },
+            {
+                "icon": "headphones",
+                "image": "https://i.ytimg.com/vi/fdWoNBt6CcY/maxresdefault.jpg"
+            },
+            {
+                "icon": "headphones",
+                "image": "https://store-images.s-microsoft.com/image/apps.53606.14382910273474582.14719bfd-077c-4560-a135-57031046f2fb.8aad764d-4c70-4a65-951a-d4dc959d8184?w=472&h=266&q=60"
+            },
+            {
+                "icon": "headphones",
+                "image": "https://i.ytimg.com/vi/1KBC3tNcty8/maxresdefault.jpg"
+            },
+            {
+                "icon": "blue_book",
+                "image": "https://i0.wp.com/chainskills.com/wp-content/uploads/2017/12/bootcamp-og.jpg?fit=1200%2C630"
+            },
+            {
+                "icon": "globe_with_meridians",
+                "image": "https://phaser.io/images/shop/courses/zenva.png"
+            },
+            {
+                "icon": "film_projector",
+                "image": "http://atc.appxone.com/img/medium_banner/course_game_dev_mediumbanner.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://i.ytimg.com/vi/sF_jSrBhdlg/hqdefault.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://res-1.cloudinary.com/coder-academy/image/upload/v1512692500/nqxj75ees0j4znt2t2by.png"
+            }
+        ]
+    },
+    {
+        "title": "Are you interested in #GameDevelopment?",
+        "items": [
+            {
+                "icon": "headphones",
+                "image": "https://i.ytimg.com/vi/vav8N6lRjDg/maxresdefault.jpg"
+            },
+            {
+                "icon": "headphones",
+                "image": "https://www.cdm.depaul.edu/academics/PublishingImages/hero-Game-Programming-01.jpg"
+            },
+            {
+                "icon": "headphones",
+                "image": "http://www.clintonkeith.com/aaa_gems_img.png"
+            },
+            {
+                "icon": "blue_book",
+                "image": "https://d3q6qq2zt8nhwv.cloudfront.net/873/12226_034e_6.card.jpg"
+            },
+            {
+                "icon": "globe_with_meridians",
+                "image": "https://virtumente.com/wp-content/uploads/1522640128_maxresdefault.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "http://www.geeksvilla.com/wp-content/uploads/freecourse-590x332.png"
+            },
+            {
+                "icon": "film_projector",
+                "image": "http://www.studytonight.com/game-development-in-2D/images/2D-game-dev-course.jpg"
+            },
+            {
+                "icon": "globe_with_meridians",
+                "image": "https://www.tecmint.com/wp-content/uploads/2017/11/Unity-Game-Development-Course.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://i.ytimg.com/vi/Zt25e28465o/maxresdefault.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://cdngamedevacademy.azureedge.net/wp-content/uploads/2017/02/RPG-Game-Development-with-Phaser-825x466.png?x87724"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://udemy-images.udemy.com/course/750x422/1328572_b05d_3.jpg"
+            }
+        ]
+    },
+    {
+        "title": "It's time to do some stuff with your skills!",
+        "icon": "computer"
+    },
+    {
+        "title": "There is a lot of positions for you",
+        "icon": "male-office-worker"
+    },
+    {
+        "title": "Something to learn about #coding",
+        "items": [
+            {
+                "icon": "headphones",
+                "image": "https://s-media-cache-ak0.pinimg.com/originals/2f/3a/66/2f3a668630b0524813dcfe82c0696f9e.jpg"
+            },
+            {
+                "icon": "headphones",
+                "image": "https://hamburgcodingschool.com/learn-to-code-wide.png"
+            },
+            {
+                "icon": "blue_book",
+                "image": "http://www.rasmussen.edu/~/media/images/blogs/school-of-technology/whylearntocode_banner.ashx?la=en"
+            },
+            {
+                "icon": "globe_with_meridians",
+                "image": "http://mammothinteractive.com/wp-content/uploads/2018/05/cover-image-make-games-without-coding-in-Construct-3.png"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://www.loop.sg/assets/users/44083/1642/course_coverimage.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://i.ytimg.com/vi/A71aqufiNtQ/maxresdefault.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://scotch.io/wp-content/uploads/2014/10/learning-react-getting-started.png"
+            },
+            {
+                "icon": "globe_with_meridians",
+                "image": "https://qph.fs.quoracdn.net/main-qimg-ab36c2341b8251354d5f5620f7651708"
+            },
+            {
+                "icon": "film_projector",
+                "image": "http://stackabuse.com/content/images/2015/12/learn-node-beginners-guide.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "http://www.atees.org/onam/img/python.jpg"
+            },
+            {
+                "icon": "film_projector",
+                "image": "https://www.tecmint.com/wp-content/uploads/2016/05/Learn-Django-with-Python-Basics.png"
+            }
+        ]
+    }
+]

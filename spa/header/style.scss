@@ -24,9 +24,9 @@
         vertical-align: middle;
         display: inline-block;
         border: none;
-        background-color: #000;
+        background-color: #00001a;
         font-size: 20px;
-        color: #000;
+        color: #000091;
     }
     .IMGPLAYER {
         text-align: right;
@@ -53,8 +53,8 @@
         -webkit-filter: grayscale(0%);
         filter: grayscale(0%);
     }
-    &.toolbarRisepic ul .Searchimput .Searchbtn {
-        background-color: #000;
+    &.toolbarRisepic ul .search-input .Searchbtn {
+        background-color: #00001a;
         padding: 10px;
         font-size: 15px;
         vertical-align: middle;
@@ -62,8 +62,8 @@
     &.toolbarRisepic:hover ul .Searchbtn {
         background-color: #f85479;
     }
-    &.toolbarRisepic:hover ul .Searchimput input {
-        background-color: #000;
+    &.toolbarRisepic:hover ul .search-input input {
+        background-color: #000047;
     }
     &.toolbarRisepic ul li input:hover,
     &.toolbarRisepic ul li input:focus {
@@ -74,7 +74,7 @@
     &.toolbarRisepic ul .Brandtoolbar {
         text-align: center;
     }
-    &.toolbarRisepic ul .Searchimput {
+    &.toolbarRisepic ul .search-input {
         text-align: left;
     }
     &.toolbarRisepic ul li .brandsuntoolbar {
@@ -82,4 +82,10 @@
         height: 40px;
         display: inline-block;
     }
+}
+
+@media screen and (min-width: 990px) and (max-width:1429px) {
+     .header.toolbarRisepic ul li input {
+       width: 80% !important;
+     }
 }
