@@ -7,6 +7,7 @@ var Index = React.createClass({
         return (
             <div>
                 <Header/>
+                <Timeline/>
             </div>
         );
     }

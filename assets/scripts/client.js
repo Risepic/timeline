@@ -22,7 +22,7 @@ function Client() {
     context.init = function(callback) {
         context.callback = callback
         context.persistenceManager = new PersistenceManager();
-        context.blockchainManager = new BlockchainManager();
+        //context.blockchainManager = new BlockchainManager();
         context.contractsManager = new ContractsManager();
         context.userManager = new UserManager();
         setTimeout(context.start);

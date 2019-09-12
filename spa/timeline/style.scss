@@ -1,4 +1,192 @@
 .timeline {
     .thetimelinepage {
         padding-top: 50px;
-      }}
+    }
+    .c-resume-timeline {
+        width: 100%;
+        overflow: scroll;
+        height: 530px;
+        display: inline-block;
+        background-color: #000;
+    }
+    .timeline-m .i-box-s {
+        height: 150px;
+        margin-top: 5px;
+    }
+    .timeline-m .i-box-s .typeofcontent {
+        bottom: 0;
+    }
+    .timeline-m .i-box-m {
+        height: 200px;
+        margin-top: 5px;
+    }
+    .timeline-m .i-box-m .typeofcontent {
+        bottom: 0;
+    }
+    .timeline {
+        display: inline-block;
+    }
+    .timeline-m {
+        z-index: 9;
+        position: relative;
+        padding: 0;
+        margin: 0 auto;
+        display: block;
+    }
+    .timeline-XL {
+        z-index: 10;
+        position: relative;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    .timelineother {
+        z-index: 15;
+        position: relative;
+        width: 100%;
+        /* @/* TODO:  */
+        background-color: #ffffff;
+    }
+    .pageopenintimelinefancy .qbox-prep-after {
+        width: 30%;
+        opacity: 1;
+    }
+    .pageopenintimelinefancy .vbox-l-view {
+        width: 70%;
+        margin-top: 0;
+        height: 700px;
+    }
+    .pageopenintimelinefancy .prevtimelinebasicinfo {
+        width: 65%;
+        padding: 0.2% 2.5%;
+    }
+    .pageopenintimelinefancy .contentprewboxinfo-box {
+        width: 65%;
+        margin: 0;
+        padding: 0.2% 2.5%;
+    }
+    .pageopenintimelinefancy .contentprewboxtext-box {
+        width: 100%;
+    }
+    .pageopenintimelinefancy .contentprewboxtext-box>figure {
+        display: none;
+    }
+    .pageopenintimelinefancy .contentprewboxwhat-box figure {
+        height: 130px;
+        padding-top: 0px;
+        width: 25%;
+    }
+    .pageopenintimelinefancy .contentprewboxwhat-box {
+        width: 100%;
+    }
+    .pageopenintimelinefancy .contentprewboxdesc-box {
+        height: 1px;
+    }
+    .pageopenintimelinefancy .contentprewboxwhat-box p {
+        padding-right: 16%;
+        padding-left: 3%;
+    }
+    .pageopenintimelinefancytop {
+        z-index: 27;
+    }
+    .pageopenintimelinefancyfirst {
+        z-index: 25;
+    }
+    .Whaitbutwhy {
+        width: 100%;
+        text-align: center;
+    }
+    .pageopenintimelinefancy .i-box-s {
+        vertical-align: baseline;
+    }
+    .pageopenintimelinefancy .timeline-m {
+        padding-top: 70px;
+    }
+    .pageopenintimelinefancy .timeline-m .i-box-xs,
+    .pageopenintimelinefancy .timeline-m .i-box-xse,
+    .pageopenintimelinefancy .timeline-m .i-box-s {
+        background-color: #e1e1e1 !important;
+    }
+    .thetimelinepage .timeline-XL .i-box-xs,
+    .thetimelinepage .timeline-XL .i-box-xse,
+    .thetimelinepage .timeline-XL .i-box-s,
+    .thetimelinepage .timeline-XL .i-box-m {
+        margin: 5px 2px;
+        display: inline-block;
+    }
+    .thetimelinepage .timeline-XL {
+        background-color: transparent !important;
+        text-align: center;
+        padding-top: 30px;
+    }
+    .timeline-m {
+        width: 800px;
+    }
+    .pageopenintimelinefancy .timeline-m {
+        width: 900px;
+    }
+    .timeline-m {
+        width: 990px;
+    }
+    .pageopenintimelinefancy .timeline-m {
+        width: 990px;
+    }
+    .i-box-m .WHYTIMELINE,
+    .i-box-s .WHYTIMELINE {
+        font-size: 11px;
+    }
+    .c-resume-timeline {
+        height: 438px !important;
+    }
+    .timeline-m {
+        width: 1200px;
+    }
+    .pageopenintimelinefancy .timeline-m {
+        width: 1300px;
+    }
+    .pageopenintimelinefancy .vbox-l-view {
+        width: 100%;
+    }
+    .WHYTIMELINE {
+        padding: 3%;
+        font-size: 14px;
+        color: #5f5e5e;
+        width: 93%;
+        text-align: left;
+    }
+    .WHYTIMELINE span {
+        color: #000000;
+        font-weight: bold;
+    }
+    .CLOSETIMELINEOBJECT {
+        width: 20px;
+        height: 20px;
+        background-color: #ffffff;
+        padding: 20px;
+        position: fixed;
+        left: 0;
+        top: 50px;
+        color: #000000;
+        font-size: 20px;
+        font-weight: bold;
+        z-index: 30;
+    }
+    .timelineother .i-box-s {
+        vertical-align: baseline;
+    }
+    .pageopenintimelinefancy .qbox-chat {
+        margin-top: 95px;
+        height: 80%;
+        width: 85%;
+        padding: 5% 7% 10% 7%;
+    }
+    .pageopenintimelinefancy .scrollinfoqaview {
+        width: 100%;
+        display: inline-block;
+        position: fixed;
+        width: 30%;
+        top: 0;
+        right: 0;
+        z-index: 20;
+    }
+}
